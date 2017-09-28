@@ -30,6 +30,7 @@ tracks.byType.unknown:                  920
 
 PHS.draw:                               1
 TPC.draw:                               1
+RPH.draw:                               1
 HMP.draw:                               1
 TRD.draw:                               1
 MCH.draw:                               1
@@ -48,6 +49,7 @@ FMD.draw:                               1
 
 PHS.color:                              53
 TPC.color:                              3
+RPH.color:                              3
 HMP.color:                              5
 TRD.color:                              921
 MCH.color:                              920
@@ -65,6 +67,7 @@ FMD.color:                              906
 
 PHS.trans:                              70
 TPC.trans:                              60
+RPH.trans:                              60
 HMP.trans:                              70
 TRD.trans:                              80
 MCH.trans:                              80
